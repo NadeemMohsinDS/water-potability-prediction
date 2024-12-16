@@ -1,4 +1,4 @@
-water_prediction
+
 ==============================
 # Water Potability Prediction
 
@@ -13,8 +13,6 @@ This project focuses on predicting water potability using machine learning class
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -102,34 +100,6 @@ The project employs:
 
 ---
 
-## Project Structure
-
-```
-water-potability-prediction/
-├── data/                  # Raw and processed data
-├── notebooks/             # Jupyter notebooks for EDA
-├── src/                   # Source code
-│   ├── preprocess.py      # Data preprocessing script
-│   ├── train.py           # Model training script
-│   └── evaluate.py        # Model evaluation script
-├── models/                # Saved models
-├── pipelines/             # DVC pipeline configuration
-├── reports/               # Generated reports and logs
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-```
-
----
-
-## Results
-
-- **Accuracy**: Achieved an accuracy of XX% using [model name].
-- **Precision**: XX%
-- **Recall**: XX%
-
-Visualization of results and feature importance is available in the `reports/` directory.
-
----
 
 ## Contributing
 
